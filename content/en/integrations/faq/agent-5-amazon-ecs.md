@@ -120,11 +120,11 @@ Datadog's [Autodiscovery][10] can be used in conjunction with ECS and Docker to 
 
 [1]: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started.html
 [2]: https://aws.amazon.com/cli
-[3]: /resources/json/dd-agent-ecs.json
-[4]: /resources/json/dd-agent-ecs1.json
+[3]: /static/resources/json/dd-agent-ecs.json
+[4]: /static/resources/json/dd-agent-ecs1.json
 [5]: https://app.datadoghq.com/organization-settings/api-keys
 [6]: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-config.html#ecs-config-s3
-[7]: /integrations/amazon_web_services/#installation
+[7]: https://docs.datadoghq.com/integrations/amazon_web_services/#installation
 [8]: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/security-iam.html
 [9]: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs_services.html#service_scheduler_daemon
-[10]: /agent/docker/integrations/
+[10]: https://docs.datadoghq.com/agent/docker/integrations
